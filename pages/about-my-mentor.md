@@ -4,28 +4,29 @@ title: About My Mentors
 permalink: /about-my-mentor.html
 
 graduate_mentor:
-  name: Alex Morgan
+  name: Blessing Adeika
   title: PhD Candidate, Computer Engineering
   image: /assets/images/graduate-student-mentor.svg
-  website: https://example.com/alex-morgan
+  website:
   bio: |
-    Alex is a PhD candidate working on adaptive systems and embedded machine learning.
-    They've been an incredible mentor — patient with my questions and great at helping
-    me connect ideas across disciplines.
+    Blessing is a PhD candidate whose research focuses on artificial intelligence,
+    multimodal deep learning, and trustworthy AI systems. Throughout the program,
+    they have provided guidance on machine learning concepts, research workflows,
+    and the development of AI models for healthcare applications.
 
-    Outside of research, Alex organizes weekly reading groups and is a strong advocate
-    for undergraduate research participation.
+    Their mentorship has helped me better understand the practical and research
+    aspects of AI development, especially in computer vision and explainable AI.
 
 faculty_mentor:
-  name: Dr. Pat Nguyen
-  title: Associate Professor, School of Engineering
+  name: Dr. Saroj K. Pramanik
+  title: Professor, Computer and Electrical Systems Engineering
   image: /assets/images/faculty-mentor.svg
-  website: https://example.com/pat-nguyen
+  website:
   bio: |
-    Dr. Nguyen leads a research group focused on human-centered computing and
-    accessibility. Their guidance has helped me sharpen my research questions and
-    think more carefully about real-world impact.
+    Dr. Pramanik leads research focused on artificial intelligence, machine learning,
+    and healthcare-related AI applications. His work emphasizes building intelligent,
+    reliable, and impactful systems that address real-world challenges.
 
-    Dr. Nguyen has mentored many SAIRI students and is a champion for broadening
-    participation in computing.
+    Through his mentorship, I have gained valuable experience in research, problem-solving,
+    and the development of trustworthy AI systems for medical and clinical applications.
 ---
