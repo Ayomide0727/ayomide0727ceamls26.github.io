@@ -13,7 +13,7 @@ quick_facts:
   - "🚀 I like watching movies"
 
 linkedin: https://www.linkedin.com/in/ayomide0727
-image: /assets/images/profile.svg
+image: assets/images/profile1.jpg
 
 # A "Currently" block — three short status lines for the home page.
 currently:
