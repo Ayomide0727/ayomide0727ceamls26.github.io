@@ -6,7 +6,7 @@ permalink: /about-me.html
 about:
   name: Ayomide Aisida
   role: Junior, Computer Science
-  image: /assets/images/profile.svg
+  image: assets/images/profile1.jpg
   linkedin: https://www.linkedin.com/in/ayomide0727/
   bio: |
     Hi! I’m Ayomide, a Computer Science student in the CEAMLS SAIRI Summer Research program.
@@ -28,10 +28,10 @@ about:
       description: I love discovering and trying different delicacies and cuisines.
 
   gallery:
-    - image: /assets/images/gallery-1.svg
-      caption: A great day on the trail.
-    - image: /assets/images/gallery-2.svg
-      caption: One of my recent illustrations.
-    - image: /assets/images/gallery-3.svg
-      caption: Hanging out with friends after class.
+    - image: assets/images/Ncur.jpeg
+      caption: Presenting our research on adaptive learning systems at CUR26 Richmond.
+    - image: assets/images/Hackathon.PNG
+      caption: My First in-person Hackathon.
+    - image: assets/images/outing.jpg
+      caption: Hanging out with friends at a ball
 ---
