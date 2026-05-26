@@ -16,16 +16,16 @@ about:
 
     Outside of academics, I enjoy reading thriller books, watching Asian dramas, and working on small side projects with friends.
 
-hobbies:
-  - icon: 📖
-    title: Reading
-    description: I enjoy reading thriller books and stories that keep me guessing.
-  - icon: 🎬
-    title: Movies & Dramas
-    description: Watching movies and Asian dramas is one of my favorite ways to relax.
-  - icon: 🍜
-    title: Exploring Delicacies
-    description: I love discovering and trying different delicacies and cuisines.
+  hobbies:
+    - icon: 📖
+      title: Reading
+      description: I enjoy reading thriller books and stories that keep me guessing.
+    - icon: 🎬
+      title: Movies & Dramas
+      description: Watching movies and Asian dramas is one of my favorite ways to relax.
+    - icon: 🍜
+      title: Exploring Delicacies
+      description: I love discovering and trying different delicacies and cuisines.
 
   gallery:
     - image: /assets/images/gallery-1.svg
