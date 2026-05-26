@@ -1,26 +1,26 @@
 ---
 layout: home
 title: Home
-display_name: Clyde Tandjong                  # <- shown as the big display name on the hero
+display_name: Ayomide Aisida                  # <- shown as the big display name on the hero
 description: My CEAMLS SAIRI Summer Research Site
 
-motto: "Curious about how research can shape better tools for everyday life."
+motto: "Memento Mori."
 
 quick_facts:
   - "🎓 Junior, Computer Science"
-  - "🔬 Interested in Quantum Physics"
-  - "📍 Based in Baltimore, MD"
-  - "🚀 I like pineapples"
+  - "🔬 Interested in AI and Machine Language"
+  - "📍 Based in Odeton, MD"
+  - "🚀 I like watching movies"
 
-linkedin: https://www.linkedin.com/in/example
+linkedin: https://www.linkedin.com/in/ayomide0727
 image: /assets/images/profile.svg
 
 # A "Currently" block — three short status lines for the home page.
 currently:
   - label: Reading
-    text: "The Design of Everyday Things — Don Norman"
+    text: "Profiler — Lei Mi"
   - label: Building
-    text: "A small Raspberry Pi sensor logging dashboard"
+    text: "A Real Time ASL Tracker"
   - label: Wondering
-    text: "How accessibility research can shape consumer hardware"
+    text: "How My Future will be"
 ---
