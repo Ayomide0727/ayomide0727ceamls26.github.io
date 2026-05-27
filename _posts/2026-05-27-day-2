@@ -1,0 +1,36 @@
+---
+layout: post
+title: "Day 2 — Welcome, Mentors & Hands-On Learning"
+date: 2026-05-27
+permalink: /day2.html
+tags: ["internship", "figma", "python", "mentorship"]
+
+what_i_learned: |
+  Today was the official start of the internship activities for the week. We began
+  with welcome sessions, introductions, and an overview of the SAIRI program expectations.
+  I also got to meet my graduate mentor and faculty mentor, who gave detailed explanations
+  about our project and what we will be working on throughout the program.
+
+  One of the most interesting parts of the day was the Figma 101 session led by
+  Elijah BaLlou. We participated in a hands-on activity where we recreated a website
+  homepage using Figma. I learned how important prototyping and interface design are
+  before beginning app development, which is a step I normally skipped when creating apps.
+
+  We also had a Python recap session with Michael Adeleke that reviewed the basics of
+  Python programming. The session was straightforward and ended with a quiz that helped
+  reinforce the concepts we reviewed.
+
+blockers: |
+  The Figma session moved quickly at times, so it was a little challenging trying to
+  keep up with the speaker during the hands-on activity. However, I was still able to
+  follow along and better understand the design workflow process.
+
+reflection: |
+  Overall, I enjoyed today a lot. Meeting my mentors and learning more about the project
+  made me feel excited about the internship experience. The Figma session especially stood
+  out to me because it showed me the importance of designing and planning before jumping
+  into development.
+
+  Even though some parts were challenging, I learned a lot and I am looking forward to
+  improving my design and programming skills throughout the program.
+---
