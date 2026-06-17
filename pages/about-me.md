@@ -34,6 +34,6 @@ about:
       caption: My First in-person Hackathon.
     - image: assets/images/outing.jpg
       caption: Hanging out with friends at a ball
-    - image: assets/images/chatgpt_actvity.jpg
+    - image: assets/images/chatgpt_actvity.png
       caption: An illustration of me from chatgpt
 ---
